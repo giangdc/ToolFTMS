@@ -31,7 +31,7 @@ source ~/.bashrc && nvm install 22
 ## 2. Cài đặt (git clone)
 
 ```bash
-git clone <URL-repo> ~/ftms-data-tool
+git clone https://github.com/giangdc/ToolFTMS.git ~/ftms-data-tool
 cd ~/ftms-data-tool
 bash install.sh
 ```
